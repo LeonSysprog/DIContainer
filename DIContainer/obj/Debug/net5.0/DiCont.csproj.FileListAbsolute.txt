@@ -1,0 +1,16 @@
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.AssemblyInfoInputs.cache
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.AssemblyInfo.cs
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.exe
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.deps.json
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.runtimeconfig.json
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.runtimeconfig.dev.json
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.dll
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\ref\DiCont.dll
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\bin\Debug\net5.0\DiCont.pdb
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.dll
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\ref\DiCont.dll
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.pdb
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.genruntimeconfig.cache
+C:\Users\Leonid\Downloads\SoftwareDevelopment-master\SoftwareDevelopment-master\DiCont\obj\Debug\net5.0\DiCont.csprojAssemblyReference.cache
